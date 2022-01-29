@@ -1,0 +1,1 @@
+https://docs.aws.amazon.com/controltower/latest/userguide/aws-multi-account-landing-zone.html
