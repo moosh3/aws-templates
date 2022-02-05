@@ -1,0 +1,5 @@
+Amazon GuardDuty
+
+is a threat detection service that continually monitors for malicious activity and unintended behavior to protect your AWS accounts, workloads, and data stored in Amazon S3. Amazon GuardDuty uses machine learning, anomaly detection, and integrated threat intelligence to identify and prioritize potential threats. GuardDuty analyzes tens of billions of events across multiple AWS data sources, such as AWS CloudTrail event logs, Amazon VPC Flow Logs, and DNS logs.
+
+Both AWS Security Hub and Amazon GuardDuty have the concept of an administrator and member account. The administrator account can view the aggregated findings of all member accounts within a Region. You should delegate administration of Security Hub and GuardDuty to the security audit account provisioned by AWS Control Tower. 
